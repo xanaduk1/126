@@ -1,0 +1,28 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(13, 13, 238);
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #1e71e6;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(214, 41, 35);
+    line-height: 3;
+    text-align: center;
+}
+
+body{
+    background-color: black;
+}
